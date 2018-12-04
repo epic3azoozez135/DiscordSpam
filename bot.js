@@ -47,35 +47,35 @@ var channel = "519535221582987265";//ايدي الروم
 })
 client6.on('ready', async() => {
 var server = "519534970130137100"; // ايدي السررفر
-var channel = "519535235856072737";//ايدي الروم
+var channel = "519547566619230252";//ايدي الروم
     setInterval(()=>{
     client6.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
 client7.on('ready', async() => {
 var server = "519534970130137100"; // ايدي السررفر
-var channel = "519535235856072737";//ايدي الروم
+var channel = "519547566619230252";//ايدي الروم
     setInterval(()=>{
     client7.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
 client8.on('ready', async() => {
 var server = "519534970130137100"; // ايدي السررفر
-var channel = "519535235856072737";//ايدي الروم
+var channel = "519547566619230252";//ايدي الروم
     setInterval(()=>{
     client8.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
 client9.on('ready', async() => {
 var server = "519534970130137100"; // ايدي السررفر
-var channel = "519535235856072737";//ايدي الروم
+var channel = "519547566619230252";//ايدي الروم
     setInterval(()=>{
     client9.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
 client10.on('ready', async() => {
 var server = "519534970130137100"; // ايدي السررفر
-var channel = "519535235856072737";//ايدي الروم
+var channel = "519547566619230252";//ايدي الروم
     setInterval(()=>{
     client10.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
