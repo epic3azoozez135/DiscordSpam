@@ -1,1 +1,1 @@
-# DiscordSpam
+# Basel_Spam
