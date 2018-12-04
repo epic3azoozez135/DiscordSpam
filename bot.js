@@ -47,7 +47,7 @@ var channel = "519535221582987265";//ايدي الروم
 })
 client6.on('ready', async() => {
 var server = "519534970130137100"; // ايدي السررفر
-var channel = "519535221582987265";//ايدي الروم
+var channel = "519535235856072737";//ايدي الروم
     setInterval(()=>{
     client6.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
